@@ -1,3 +1,3 @@
-# .github
+# Malumian
 
-.github
+Malumian Projects
